@@ -10,3 +10,8 @@ void helloWorld()
 {
 cout<<"Hello world"<<endl;
 }
+
+void printHelloGit()
+{
+cout<<"Hello git";
+}
