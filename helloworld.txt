@@ -1,0 +1,12 @@
+void main(){
+
+helloWorld();
+
+return 0;
+}
+
+
+void helloWorld()
+{
+cout<<"Hello world"<<endl;
+}
