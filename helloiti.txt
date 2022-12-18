@@ -1,0 +1,11 @@
+void main(){
+
+helloIti();
+return 0;
+}
+
+
+void helloIti()
+{
+cout<<"Hello ITI";
+}
