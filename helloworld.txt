@@ -14,6 +14,15 @@ cout<<"Hello world"<<endl;
 void printHelloGit()
 {
 cout<<"Hello git";
+<<<<<<< HEAD
 cout<<"hello main";
 cout <<"main branch";
+=======
+
+
+
+
+cout<<"hello test brunch";
+cout<<"new branch";
+>>>>>>> new
 }
